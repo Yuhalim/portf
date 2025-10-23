@@ -49,9 +49,10 @@ ScrollReveal({
 
 
  const typed = new Typed('.multiple-text', {
-    strings: ['Fontend Developer', 'Web Designer', 'Product Manager'],
+    strings: ['Product Manager', 'Creative Director', 'Virtual Assistant', 'Web Developer'],
     typespeed: 70,
     backspeed: 70,
     backdelay: 1000,
     loop: true,
  });
+
